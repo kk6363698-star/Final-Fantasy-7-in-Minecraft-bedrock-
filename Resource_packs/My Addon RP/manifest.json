@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "My Course Resource Pack",
+    "description": "Resources for course addon",
+    "uuid": "6bf4eebc-8492-49eb-8678-da051f53354b",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "46cee23f-dc76-4cb9-8a33-b6205a92b581",
+      "version": [1, 0, 0]
+    }
+  ]
+}
+
